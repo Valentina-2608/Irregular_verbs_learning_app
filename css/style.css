@@ -5,8 +5,7 @@
     max-width: 100%;
     min-width: 50%;
     margin: 0 auto;
-    background-color: lightgrey;
-    height:1200px;
+    height:auto;
     display: flex;
     flex-direction: column;
 }
