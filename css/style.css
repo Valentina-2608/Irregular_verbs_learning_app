@@ -152,7 +152,7 @@ flex-direction: row;
 justify-content: space-around;
 align-items: center;}
 
-.block_info{width:25%;
+.block_info{width:18%;
 height: 200px;
 display: flex;
 flex-direction: column;}
@@ -162,14 +162,18 @@ height: 30px;
 font-size:18px;
 padding-top: 10px;
 font-weight: bold;
-color:beige;
-text-decoration: underline;}
+color:black;
+text-align: center;
+text-decoration: underline;
+background-color: aliceblue;
+border-radius: 10px;}
 
 
 .block_info1{width:100%;
 height:40px;
 color:white;
-margin-top:10px;}
+margin-top:10px;
+text-align: center;}
 
 .block_info1>a{
     color:white;
