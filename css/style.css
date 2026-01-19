@@ -165,4 +165,17 @@ padding-top: 10px;
 font-weight: bold;
 text-align: center;
 color:beige;
-background-color: bisque;}
+text-decoration: underline;}
+
+
+.block_info1{width:100%;
+height:40px;
+color:white;
+text-align: center;
+margin-top:10px;}
+
+.block_info1>a{
+    color:white;
+    text-decoration: none;
+    font-size:18px;
+}
